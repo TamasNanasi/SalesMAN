@@ -1,0 +1,249 @@
+SE /SAP Value: 01
+Sole trader /SAP Value: 02
+Others /SAP Value: 03
+GbR /SAP Value: 04
+GermanCivilCode /SAP Value: 05
+KG /SAP Value: 06
+GmbH & Co KG /SAP Value: 07
+Sole Proprietor /SAP Value: 08
+AG /SAP Value: A0
+GbR /SAP Value: A1
+/SAP Value: A2
+/SAP Value: A3
+KG /SAP Value: A4
+/SAP Value: A5
+OHG /SAP Value: A6
+SE /SAP Value: A7
+Sole trader /SAP Value: A8
+Others /SAP Value: A9
+/SAP Value: AA
+/SAP Value: AB
+Sole trader /SAP Value: AC
+Others /SAP Value: AD
+GmbH & Co KG /SAP Value: AE
+/SAP Value: AF
+Business enterp /SAP Value: AG
+/SAP Value: AH
+Community /SAP Value: AI
+Federal authori /SAP Value: AJ
+Corporate body /SAP Value: AK
+/SAP Value: AL
+SE /SAP Value: B0
+Sole trader /SAP Value: B1
+Others /SAP Value: B2
+/SAP Value: B3
+/SAP Value: B4
+/SAP Value: B5
+AD /SAP Value: B7
+/SAP Value: B8
+/SAP Value: B9
+SD /SAP Value: BA
+Others /SAP Value: BB
+d.d. /SAP Value: BC
+/SAP Value: BD
+/SAP Value: BE
+/SAP Value: BF
+Private person /SAP Value: BG
+Others /SAP Value: BH
+AG /SAP Value: C0
+GmbH /SAP Value: C1
+Sole trader /SAP Value: C2
+Others /SAP Value: C3
+SA /SAP Value: C5
+/SAP Value: C6
+/SAP Value: CA
+SA /SAP Value: CB
+a.s. /SAP Value: CG
+/SAP Value: CH
+/SAP Value: CI
+/SAP Value: CJ
+/SAP Value: CK
+/SAP Value: CL
+/SAP Value: CM
+/SAP Value: CN
+/SAP Value: CO
+Others /SAP Value: CP
+/SAP Value: D0
+SE /SAP Value: D1
+Sole trader /SAP Value: D2
+Others /SAP Value: D3
+AG /SAP Value: D4
+GermanCivilCode /SAP Value: D5
+/SAP Value: D6
+/SAP Value: D7
+Sole Proprietor /SAP Value: D8
+GbR /SAP Value: D9
+/SAP Value: DA
+Business enterp /SAP Value: DB
+GmbH /SAP Value: DC
+GmbH & Co KG /SAP Value: DD
+/SAP Value: DE
+Community /SAP Value: DF
+KG /SAP Value: DG
+KGaA /SAP Value: DH
+Corporate body /SAP Value: DI
+/SAP Value: DJ
+Federal Authori /SAP Value: DK
+Ltd. /SAP Value: DL
+OHG /SAP Value: DM
+EU-Authority /SAP Value: DN
+/SAP Value: DO
+Party /SAP Value: DP
+/SAP Value: DQ
+/SAP Value: DR
+/SAP Value: DS
+A/S /SAP Value: DT
+ApS /SAP Value: DU
+/SAP Value: DV
+/SAP Value: DW
+Foundation /SAP Value: DX
+Sole trader /SAP Value: E0
+Others /SAP Value: E1
+S.A. /SAP Value: E2
+/SAP Value: EB
+/SAP Value: EF
+/SAP Value: EG
+/SAP Value: EH
+S.L. /SAP Value: EI
+/SAP Value: EK
+SA /SAP Value: EL
+SC /SAP Value: EM
+/SAP Value: EN
+/SAP Value: EO
+/SAP Value: EP
+/SAP Value: EQ
+DP /SAP Value: ER
+/SAP Value: ES
+Sole trader /SAP Value: ET
+Others /SAP Value: EU
+/SAP Value: F0
+/SAP Value: F1
+SA /SAP Value: F2
+SARL /SAP Value: F3
+/SAP Value: F4
+/SAP Value: F5
+/SAP Value: F6
+/SAP Value: F7
+Sole trader /SAP Value: F8
+Others /SAP Value: F9
+/SAP Value: FA
+Sole trader /SAP Value: FB
+Others /SAP Value: FC
+Sole Trader /SAP Value: G0
+Others /SAP Value: G1
+Limited Partner /SAP Value: G2
+Ltd. /SAP Value: G3
+Plc /SAP Value: G4
+/SAP Value: G5
+/SAP Value: G6
+EE /SAP Value: G7
+EPE /SAP Value: G8
+/SAP Value: G9
+Sole trader /SAP Value: GA
+Others /SAP Value: GB
+General Partner /SAP Value: GC
+/SAP Value: GD
+/SAP Value: GE
+/SAP Value: H0
+/SAP Value: H1
+/SAP Value: H2
+/SAP Value: H3
+Rt. /SAP Value: H4
+Sole trader /SAP Value: H5
+Others /SAP Value: H6
+Sole trader /SAP Value: I0
+Ltd. /SAP Value: I1
+/SAP Value: I2
+/SAP Value: I3
+Others /SAP Value: I4
+/SAP Value: I5
+/SAP Value: I6
+/SAP Value: I7
+SpA /SAP Value: I8
+/SAP Value: I9
+Sole trader /SAP Value: IA
+Others /SAP Value: IB
+/SAP Value: IC
+/SAP Value: ID
+Order Confirmat /SAP Value: L0
+/SAP Value: L1
+/SAP Value: L2
+/SAP Value: L3
+/SAP Value: L4
+SA /SAP Value: L5
+/SAP Value: L6
+/SAP Value: L7
+/SAP Value: L8
+Sole trader /SAP Value: LA
+DP /SAP Value: LB
+/SAP Value: LC
+/SAP Value: LD
+Others /SAP Value: LE
+Sole trader /SAP Value: LF
+Others /SAP Value: LG
+BV /SAP Value: N0
+/SAP Value: N1
+/SAP Value: N2
+/SAP Value: N3
+Sole trader /SAP Value: N4
+Others /SAP Value: N5
+Sole trader /SAP Value: P0
+Others /SAP Value: P1
+S.A. /SAP Value: P2
+/SAP Value: P3
+/SAP Value: P4
+/SAP Value: P5
+/SAP Value: P6
+/SAP Value: P7
+/SAP Value: P8
+/SAP Value: PC
+S.A. /SAP Value: PD
+Sole trader /SAP Value: PE
+Others /SAP Value: PF
+S.A. /SAP Value: R0
+/SAP Value: R1
+/SAP Value: R2
+/SAP Value: R3
+/SAP Value: R4
+Sole trader /SAP Value: R5
+Others /SAP Value: R6
+a.s. /SAP Value: S0
+/SAP Value: S1
+/SAP Value: S2
+/SAP Value: S3
+/SAP Value: S4
+Order Confirmat /SAP Value: S6
+/SAP Value: S7
+/SAP Value: S8
+/SAP Value: SA
+/SAP Value: SB
+/SAP Value: SC
+/SAP Value: SD
+Sole trader /SAP Value: SE
+Others /SAP Value: SF
+Sole trader /SAP Value: SG
+Others /SAP Value: SH
+Sole trader /SAP Value: SI
+Others /SAP Value: SJ
+/SAP Value: T0
+/SAP Value: T1
+/SAP Value: T2
+/SAP Value: T3
+/SAP Value: T4
+Sole trader /SAP Value: T5
+Others /SAP Value: T6
+/SAP Value: U0
+/SAP Value: U1
+/SAP Value: U2
+/SAP Value: U3
+/SAP Value: U4
+/SAP Value: U5
+Sole trader /SAP Value: U6
+Others /SAP Value: U7
+/SAP Value: X1
+/SAP Value: X2
+/SAP Value: X3
+/SAP Value: X4
+Sole trader /SAP Value: X5
+Others /SAP Value: X6
+/SAP Value: ZZ

@@ -1,0 +1,8 @@
+2020/07/15-10:09:50.594 6c18 Reusing MANIFEST C:\Users\tnanasi\eclipse-workspace\SalesMAN\folders\profile\Default\IndexedDB\https_salesman.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/15-10:09:54.175 29d8 Level-0 table #5: started
+2020/07/15-10:09:54.195 29d8 Level-0 table #5: 384028 bytes OK
+2020/07/15-10:09:54.199 29d8 Delete type=0 #3
+2020/07/15-10:09:54.200 29d8 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/07/15-10:10:00.361 29d8 Level-0 table #7: started
+2020/07/15-10:10:00.405 29d8 Level-0 table #7: 3985278 bytes OK
+2020/07/15-10:10:00.412 29d8 Delete type=0 #4

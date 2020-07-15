@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/java/pageObjects/AbakusObject.java=UTF-8
+encoding//src/main/java/pageObjects/AccountsObject.java=UTF-8
+encoding//src/main/java/pageObjects/C4SObject.java=UTF-8
+encoding//src/main/java/pageObjects/ContactsObject.java=UTF-8
+encoding//src/main/java/pageObjects/LandingPage.java=UTF-8
+encoding//src/main/java/pageObjects/MainPage.java=UTF-8
+encoding//src/main/java/pageObjects/OpptyObject.java=UTF-8
+encoding//src/main/java/pageObjects/ProposalObject.java=UTF-8
+encoding//src/main/java/pageObjects/SetupPage.java=UTF-8
+encoding//src/main/java/resources/testBlocks.java=UTF-8
+encoding//src/test/java/SalesForce/PROD_Regression_Calculation_Szenario1_PROD.java=UTF-8
+encoding//src/test/java/SalesForce/PROD_Regression_Calculation_Szenario2_PROD.java=UTF-8
+encoding//src/test/java/SalesForce/PROD_Regression_Calculation_Szenario3_PROD.java=UTF-8
+encoding//src/test/java/SalesForce/PROD_Regression_Calculation_Szenario4_PROD.java=UTF-8
+encoding//src/test/java/SalesForce/PROD_Regression_Calculation_Szenario5_PROD.java=UTF-8

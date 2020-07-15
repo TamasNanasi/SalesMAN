@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="SalesForce.CAP_Regression_Calculation_TC1_UAT">
+        <methods>
+          <include name="initialize"/>
+          <include name="TC1_Regression_Calculation"/>
+        </methods>
+      </class> <!-- SalesForce.CAP_Regression_Calculation_TC1_UAT -->
+      <class name="SalesForce.CAP_Regression_Calculation_TC2_UAT">
+        <methods>
+          <include name="initialize"/>
+          <include name="TC1_Regression_Calculation"/>
+        </methods>
+      </class> <!-- SalesForce.CAP_Regression_Calculation_TC2_UAT -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

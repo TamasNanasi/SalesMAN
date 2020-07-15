@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="SalesForce.PROD_Regression_Calculation_Szenario1_PROD">
+        <methods>
+          <include name="PROD_Regression_Calculation_Szenario1"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- SalesForce.PROD_Regression_Calculation_Szenario1_PROD -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

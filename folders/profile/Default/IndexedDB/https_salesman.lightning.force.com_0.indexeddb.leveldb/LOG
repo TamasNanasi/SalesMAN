@@ -1,0 +1,49 @@
+2020/07/15-10:11:17.741 36d4 Reusing MANIFEST C:\Users\tnanasi\eclipse-workspace\SalesMAN\folders\profile\Default\IndexedDB\https_salesman.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/15-10:11:17.742 36d4 Recovering log #6
+2020/07/15-10:11:17.744 36d4 Reusing old log C:\Users\tnanasi\eclipse-workspace\SalesMAN\folders\profile\Default\IndexedDB\https_salesman.lightning.force.com_0.indexeddb.leveldb/000006.log 
+2020/07/15-10:11:22.187 5b8c Compacting 1@1 + 1@2 files
+2020/07/15-10:11:22.206 5b8c Generated table #9@1: 282 keys, 565206 bytes
+2020/07/15-10:11:22.206 5b8c Compacted 1@1 + 1@2 files => 565206 bytes
+2020/07/15-10:11:22.211 5b8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/15-10:11:22.211 5b8c Delete type=2 #5
+2020/07/15-10:11:22.211 5b8c Delete type=2 #7
+2020/07/15-10:11:24.521 5b8c Level-0 table #11: started
+2020/07/15-10:11:24.568 5b8c Level-0 table #11: 3951218 bytes OK
+2020/07/15-10:11:24.575 5b8c Delete type=0 #6
+2020/07/15-10:11:42.050 5b8c Level-0 table #13: started
+2020/07/15-10:11:42.092 5b8c Level-0 table #13: 4265665 bytes OK
+2020/07/15-10:11:42.097 5b8c Delete type=0 #10
+2020/07/15-10:12:07.790 5b8c Level-0 table #15: started
+2020/07/15-10:12:07.855 5b8c Level-0 table #15: 4371457 bytes OK
+2020/07/15-10:12:07.863 5b8c Delete type=0 #12
+2020/07/15-10:12:10.623 5b8c Level-0 table #17: started
+2020/07/15-10:12:10.639 5b8c Level-0 table #17: 431831 bytes OK
+2020/07/15-10:12:10.643 5b8c Delete type=0 #14
+2020/07/15-10:12:10.951 5b8c Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x01\x1f\x03\x00@MW\x195wB\x00\x01F\x000\x000\x00D\x001\x00t\x000\x000\x000\x000\x000\x000\x00o\x00p\x00Y\x00E\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x005\x001\x00t\x000\x000\x000\x000\x000\x003\x00Q\x00T\x00i\x00a\x004\x008\x00.\x000\x00:\x00g\x00l\x00o\x00b\x00a\x00l\x00V\x00a\x00l\x00u\x00e\x00P\x00r\x00o\x00v\x00i\x00d\x00e\x00r\x00s' @ 2903 : 1
+2020/07/15-10:12:10.951 5b8c Compacting 3@0 + 1@1 files
+2020/07/15-10:12:10.982 5b8c Generated table #18@0: 1169 keys, 400450 bytes
+2020/07/15-10:12:10.982 5b8c Compacted 3@0 + 1@1 files => 400450 bytes
+2020/07/15-10:12:10.986 5b8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/15-10:12:10.987 5b8c Delete type=2 #17
+2020/07/15-10:12:10.987 5b8c Manual compaction at level-0 from '\x00\x01\x01\x1f\x03\x00@MW\x195wB\x00\x01F\x000\x000\x00D\x001\x00t\x000\x000\x000\x000\x000\x000\x00o\x00p\x00Y\x00E\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x000\x005\x001\x00t\x000\x000\x000\x000\x000\x003\x00Q\x00T\x00i\x00a\x004\x008\x00.\x000\x00:\x00g\x00l\x00o\x00b\x00a\x00l\x00V\x00a\x00l\x00u\x00e\x00P\x00r\x00o\x00v\x00i\x00d\x00e\x00r\x00s' @ 2903 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/07/15-10:12:16.484 5b8c Compacting 1@1 + 1@2 files
+2020/07/15-10:12:16.502 5b8c Generated table #19@1: 186 keys, 228872 bytes
+2020/07/15-10:12:16.502 5b8c Compacted 1@1 + 1@2 files => 228872 bytes
+2020/07/15-10:12:16.506 5b8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/15-10:12:16.506 5b8c Delete type=2 #9
+2020/07/15-10:12:16.506 5b8c Delete type=2 #11
+2020/07/15-10:12:16.506 5b8c Delete type=2 #13
+2020/07/15-10:12:16.506 5b8c Delete type=2 #15
+2020/07/15-10:12:16.506 5b8c Delete type=2 #18
+2020/07/15-10:12:17.142 5b8c Level-0 table #21: started
+2020/07/15-10:12:17.191 5b8c Level-0 table #21: 4066676 bytes OK
+2020/07/15-10:12:17.196 5b8c Delete type=0 #16
+2020/07/15-10:12:44.305 5b8c Level-0 table #23: started
+2020/07/15-10:12:44.354 5b8c Level-0 table #23: 4554903 bytes OK
+2020/07/15-10:12:44.361 5b8c Delete type=0 #20
+2020/07/15-10:13:09.273 5b8c Level-0 table #25: started
+2020/07/15-10:13:09.328 5b8c Level-0 table #25: 4425804 bytes OK
+2020/07/15-10:13:09.333 5b8c Delete type=0 #22
+2020/07/15-10:13:39.528 5b8c Level-0 table #27: started
+2020/07/15-10:13:39.610 5b8c Level-0 table #27: 3952015 bytes OK
+2020/07/15-10:13:39.616 5b8c Delete type=0 #24

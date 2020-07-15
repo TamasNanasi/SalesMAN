@@ -1,0 +1,4 @@
+10:12:04.224 [main] INFO  SalesForce.PROD_Regression_Calculation_Szenario1_PROD - PROD_Regression_Calculation_Szenario1_PROD
+10:12:04.232 [main] INFO  SalesForce.PROD_Regression_Calculation_Szenario1_PROD - TestUser: Verkaufsbeauftragter, SCFI
+10:12:04.232 [main] INFO  SalesForce.PROD_Regression_Calculation_Szenario1_PROD - Account: ESA Sales Testdebitor 02
+10:13:28.413 [main] INFO  SalesForce.PROD_Regression_Calculation_Szenario1_PROD - Create new Opportunity
